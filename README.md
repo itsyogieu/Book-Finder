@@ -17,6 +17,10 @@ Simple React app that searches books using the Open Library Search API.
 ## Build
 `npm run build` then `npm run preview` to test the production build.
 
+🔗 [Live Demo on CodeSandbox](https://4qh6gh-5173.csb.app/)  
+
+
 ## Notes
 - Uses Open Library public API: https://openlibrary.org/search.json?title={title}
 - Cover images served from `https://covers.openlibrary.org`
+
